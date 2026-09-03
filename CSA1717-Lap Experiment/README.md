@@ -23,6 +23,6 @@ This repository contains the Artificial Intelligence laboratory experiments impl
 
 ## Author
 
-**Name:** Krisha M
+**Name:** ROKESH
 
 **Course Code:** CSA1717
